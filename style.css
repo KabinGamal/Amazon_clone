@@ -141,3 +141,30 @@
     margin-top:10px;
     font-weight: bold;
 }
+.pannel{
+    height:40px;
+    background-color: #222f3d;
+    color:white;
+    display:flex;
+    align-items: center;
+}
+.pannel_1{
+    padding-right:20px;
+    display:flex;
+    align-items: center;
+    gap:5px;
+}
+.pannel_2{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+   gap:40px;
+   
+}
+.border1{
+    border:2px solid transparent;
+}
+.border1:hover{
+    border: 1px solid white;
+    height:39px;
+}
