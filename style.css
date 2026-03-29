@@ -13,7 +13,7 @@
     justify-content: space-evenly;
 }
 .logo{
-    height:50px;
+    height:45px;
     width:114px;
     background-image:url("amazon.jpg");
     background-size: cover;
@@ -23,6 +23,12 @@
 }
 .border:hover{
     border: 2px solid white;
+    height:45px;
+
+}
+.location{
+    height:45px;
+    margin-top: 5px;
 }
 
 /* box2 */
@@ -42,7 +48,7 @@
 .nav_search{
     display: flex;
     align-items: center;
-    height:40px;
+    height:42px;
 }
 .depart{
     height:40px;
@@ -57,7 +63,7 @@
 }
 .search{
     color:black;
-    width:471px;
+    width:600px;
     height:40px;
     padding-left:10px;
     font-size:15px;
@@ -74,7 +80,13 @@
     color:#0f1111;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+}  
+.accounts{
+    height:45px;
+    margin-top: 5px;
 }
+
+/*box-4*/
 .lang_border{
     height:40px;
     width:auto;
@@ -93,5 +105,39 @@
     background-color: #0f1111;
     color:white;
     border:none;
+    font-weight: bold;
+}
+
+/*box-5*/
+.welcome{
+    height:45px;
+    margin-top: 5px;
+}
+.welcome p{
+    font-size: 0.75rem;
+    margin-left:5px;
+    font-size: 12px;
+}
+.Account{
+    border:none;
+    background-color: #0f1111;
+    color:white;
+    font-size: 14px;
+    font-weight: bold;
+}
+.welcome_second{
+    font-size: 14px;
+    font-weight: bold;
+}
+.cart{
+    display: inline-flex;
+    height:45px;
+    margin-top: 5px;
+}
+.cart i{
+    font-size: 30px;
+}
+.cart_txt{
+    margin-top:10px;
     font-weight: bold;
 }
