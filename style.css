@@ -168,3 +168,23 @@
     border: 1px solid white;
     height:39px;
 }
+.hero_sec{
+    height: 400px;
+    background-image: url("back_1.jpg");
+    background-size: cover; 
+    display:flex;
+    justify-content: center;
+    align-items: flex-end;   
+}
+
+.hero_text{
+    background-color: lightpink;
+    color:black;
+    height:40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:80%;
+    margin-bottom: 50px;
+    
+}
