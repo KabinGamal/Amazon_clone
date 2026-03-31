@@ -188,3 +188,17 @@
     margin-bottom: 50px;
     
 }
+.shop{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(206, 214, 223);
+    text-align: center;
+
+
+}
+.box{
+    font-size: 0.85rem;
+    height:385px;
+    width:23%;
+    background-color: white;
+}
