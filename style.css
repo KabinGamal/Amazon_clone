@@ -198,7 +198,28 @@
 }
 .box{
     font-size: 0.85rem;
+    
     height:385px;
     width:23%;
     background-color: white;
+}
+.box1_1{
+    height: 115px;
+    width:185px;
+    background-image: url("box1.1.jpg");
+    background-size: cover;
+    margin-top:10px;
+   
+
+}
+.box1_2{
+    height: 115px;
+    width:185px;
+    background-image: url("box1.2.jpg");
+    background-size: cover;
+    margin-top:10px;
+}
+
+.box1 h2{
+    margin-top: 30px;
 }
